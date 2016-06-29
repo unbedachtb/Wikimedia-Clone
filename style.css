@@ -1,0 +1,47 @@
+.intro {
+  padding: 40px;
+font-family: sans-serif;
+font-weight: 400;
+font-size: small;
+word-spacing: .40em;
+line-height: 1.5em;
+}
+.bold {
+  font-weight: 800;
+}
+#bold2{
+  font-weight: 800;
+  float: right;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px 35px 35px 35px;
+  justify-content: space-between;
+}
+.images img {
+  width: 70px;
+  height: 70px;
+}
+.footer {
+  padding: 10px 40px 40px 40px;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 9px;
+  word-spacing: .40em;
+  line-height: 1.5em;
+  text-align: center;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+  font-size: 9px;
+  font-family: sans-serif;
+}
+.listitems {
+  padding: 0 30vw;
+}
